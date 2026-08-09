@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Shakhaoath Pappu
 
-### 💻 Competitive Programmer | 🤖 AI/ML Explorer | 🌐 Web Developer 
+### 💻 Competitive Programmer | 🤖 AI/ML Explorer | 🌐 Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Competitive+Programming+Enthusiast;Web+Development+Learner;Machine+Learning+Explorer;Building+Projects+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Competitive+Programming+Enthusiast;Problem+Solving+%26+DSA;Machine+Learning+Explorer;AI+%26+Deep+Learning+Learner;Building+Projects+and+Learning+Every+Day" />
 
 </div>
 
@@ -12,24 +12,48 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science student** and a passionate problem solver who enjoys turning ideas into working solutions.
+I'm a **Computer Science student** and a passionate problem solver interested in **Competitive Programming, Machine Learning, and Web Development**.
 
-- 🔭 Currently working on **Web Development & AI/ML Projects**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🌱 Currently learning **Advanced DSA, Web Development & Machine Learning**
-- 💡 Interested in **Competitive Programming, Software Development & AI**
-- 🤝 Open to collaborating on **Web, AI/ML & Open Source Projects**
-- ⚡ I enjoy solving problems and learning new technologies
+- 🧠 Currently practicing **Data Structures & Algorithms & Competitive Programming**
+- 🤖 Exploring **Machine Learning, Deep Learning & AI**
+- 🔬 Working on **ML Projects and Research**
+- 📊 Working with **Python, NumPy, Pandas, Scikit-learn & TensorFlow**
+- 💡 Interested in **Problem Solving, AI/ML & Software Development**
+- 🌐 Also exploring **Modern Web Development**
+- 🤝 Open to collaborating on **Competitive Programming, AI/ML, Research & Open Source Projects**
+- ⚡ Always learning, experimenting and building
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Competitive Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
+
+**Focus:**
+
+`Data Structures` • `Algorithms` • `Problem Solving` • `Dynamic Programming` • `Graph Algorithms` • `Greedy Algorithms`
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**Libraries & Tools:**
+
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `TensorFlow` • `OpenCV`
+
+**Exploring:**
+
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Feature Engineering` • `Model Evaluation`
+
+---
 
 ### 🌐 Web Development
 
@@ -37,11 +61,11 @@ I'm a **Computer Science student** and a passionate problem solver who enjoys tu
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs" />
 </p>
 
-### 🤖 AI / Machine Learning
+**Exploring:**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+`HTML` • `CSS` • `JavaScript` • `React` • `Vue` • `Node.js`
+
+---
 
 ### 🛠️ Tools & Technologies
 
@@ -53,21 +77,23 @@ I'm a **Computer Science student** and a passionate problem solver who enjoys tu
 
 ## 🧩 Competitive Programming
 
-I enjoy solving algorithmic problems and improving my problem-solving skills.
+I enjoy solving algorithmic problems and continuously improving my **problem-solving and algorithmic thinking skills**.
 
 ### Platforms
 
 <p>
-<a href="(https://codeforces.com/profile/Pappu034)">
+
+<a href="YOUR_CODEFORCES_LINK">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
-📌 My focus areas:
+### 🎯 My CP Focus
 
 - Data Structures
 - Algorithms
@@ -75,7 +101,27 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 - Dynamic Programming
 - Graph Algorithms
 - Greedy Algorithms
+- Binary Search
+- Number Theory
 - Competitive Programming
+
+---
+
+## 🤖 Machine Learning & AI
+
+I'm currently exploring **Machine Learning and Artificial Intelligence** through practical projects and experiments.
+
+### 🔬 Areas I'm Exploring
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Feature Engineering
+- Data Preprocessing
+- Model Training & Evaluation
+- Neural Networks
+- ML Research
 
 ---
 
@@ -123,24 +169,33 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 
 ## 📌 Featured Projects
 
-### 💻 DSA
-Data Structures & Algorithms practice and problem-solving solutions.
+### 💻 DSA & Competitive Programming
 
-### 🌐 Web Development
-Web development projects built while learning modern frontend and backend technologies.
+Data Structures & Algorithms practice and competitive programming solutions.
 
 ### 🤖 Machine Learning
-Machine Learning and AI projects involving data processing, model training and prediction.
+
+Machine Learning and AI projects involving **data preprocessing, feature engineering, model training, evaluation and prediction**.
+
+### 🧠 Deep Learning
+
+Exploring neural networks, CNNs, computer vision and practical AI applications.
+
+### 🌐 Web Development
+
+Web development projects built while learning modern frontend and backend technologies.
 
 ### 🐙 Learning Git
-My journey of learning Git and GitHub, including commands, workflows and practical usage.
+
+My journey of learning Git and GitHub through practical projects and version control workflows.
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-DSA & Competitive Programming  ███████████████░░░  80%
-Web Development                █████████████░░░░░  70%
-Machine Learning               ███████████░░░░░░░  60%
-Deep Learning                  ████████░░░░░░░░░░  45%
+Competitive Programming       ████████████████░░░  85%
+Machine Learning              ██████████████░░░░░  75%
+Deep Learning                 ████████████░░░░░░░  65%
+AI / Computer Vision          ███████████░░░░░░░░  60%
+Web Development               █████████░░░░░░░░░░  50%
