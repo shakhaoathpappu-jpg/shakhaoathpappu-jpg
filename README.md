@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shakhaoath Pappu
 
-### 💻 Competitive Programmer | 🌐 Web Developer | 🤖 AI/ML Explorer
+### 💻 Competitive Programmer | 🤖 AI/ML Explorer | 🌐 Web Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Competitive+Programming+Enthusiast;Web+Development+Learner;Machine+Learning+Explorer;Building+Projects+and+Learning+Every+Day" />
 
@@ -58,7 +58,7 @@ I enjoy solving algorithmic problems and improving my problem-solving skills.
 ### Platforms
 
 <p>
-<a href="https://codeforces.com/">
+<a href="(https://codeforces.com/profile/Pappu034)">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
