@@ -1,10 +1,11 @@
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Shakhaoath Pappu
 
-### 💻 Competitive Programmer | 🤖 Machine Learning | 🌐 Web Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shakhaoath+Pappu" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Competitive+Programming+%26+Problem+Solving;Machine+Learning+%26+AI+Explorer;Building+Projects+%26+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
 
 </div>
 
@@ -12,72 +13,62 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student
-- 🧠 Focused on **Competitive Programming & Problem Solving**
+I'm a **Computer Science student** passionate about problem solving, Machine Learning and software development.
+
+- 💻 Focused on **Competitive Programming & DSA**
 - 🤖 Exploring **Machine Learning, Deep Learning & AI**
 - 🔬 Working on **ML Projects & Research**
-- 🌐 Learning and building with **Modern Web Technologies**
+- 🌐 Exploring **Modern Web Development**
 - 🚀 Always learning, solving and building
 
 ---
 
-## 💻 Competitive Programming
+## 🛠️ Tech Stack
 
-<p>
-<a href="https://codeforces.com/profile/Pappu034">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-</p>
-
-**Focus:**  
-`Data Structures` • `Algorithms` • `Problem Solving` • `Dynamic Programming` • `Graph` • `Greedy` • `Binary Search` • `Number Theory`
-
-### Languages
+### 💻 Competitive Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
+`Data Structures` • `Algorithms` • `Problem Solving` • `Dynamic Programming`  
+`Graph` • `Greedy` • `Binary Search` • `Number Theory`
+
 ---
 
-## 🤖 Machine Learning & AI
+### 🤖 Machine Learning & AI
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-**Tools & Libraries**
-
 `NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `TensorFlow` • `OpenCV`
 
 **Exploring:**  
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Feature Engineering` • `Model Evaluation` • `ML Research`
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP`  
+`Feature Engineering` • `Model Evaluation` • `ML Research`
 
 ---
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
-**Exploring:**  
 `HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `REST API`
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -109,7 +100,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -119,7 +110,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -140,3 +131,4 @@
 ### 🚀 Solve • Learn • Build • Repeat
 
 </div>
+```
