@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/Martin389/Martin389/main/waving-hand.gif" width="35px"/> Hi, I'm Shakhaoath Pappu
+# <img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/wave.gif" width="35px"/> Hi, I'm Shakhaoath Pappu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Machine+Learning+%26+AI+Explorer;Web+Developer" />
 
 <br>
 
@@ -18,7 +18,7 @@ Computer Science student passionate about problem solving, machine learning and 
 
 </td>
 <td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
 </td>
 </tr>
 </table>
@@ -85,7 +85,7 @@ Computer Science student passionate about problem solving, machine learning and 
 <a href="https://codeforces.com/profile/Pappu034">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:shakhaoathpappu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
