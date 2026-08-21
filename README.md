@@ -18,7 +18,41 @@ Computer Science student passionate about problem solving, machine learning and 
 
 </td>
 <td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
+
+<svg width="260" height="200" viewBox="0 0 260 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="20" width="240" height="140" rx="10" fill="#0d1117" stroke="#36BCF7" stroke-width="2"/>
+  <circle cx="30" cy="35" r="4" fill="#ff5f56"/>
+  <circle cx="45" cy="35" r="4" fill="#ffbd2e"/>
+  <circle cx="60" cy="35" r="4" fill="#27c93f"/>
+
+  <text x="25" y="65" font-family="monospace" font-size="12" fill="#36BCF7">
+    <tspan x="25" dy="0">function code() {</tspan>
+    <tspan x="35" dy="18">console.log(</tspan>
+    <tspan fill="#e5c07b">"Hello World"</tspan>
+    <tspan>);</tspan>
+    <tspan x="25" dy="18">}</tspan>
+  </text>
+
+  <rect x="25" y="120" width="8" height="14" fill="#36BCF7">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="200" y="45" font-family="monospace" font-size="20" fill="#61dafb">
+    &lt;/&gt;
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="15" y="180" font-family="monospace" font-size="18" fill="#f7df1e">
+    { }
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="215" y="180" font-family="monospace" font-size="18" fill="#c586c0">
+    ( )
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+</svg>
+
 </td>
 </tr>
 </table>
