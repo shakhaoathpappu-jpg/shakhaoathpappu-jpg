@@ -6,7 +6,6 @@
 
 <table width="100%">
 <tr>
-
 <td width="60%" valign="top">
 
 ### 👤 About Me
@@ -18,250 +17,62 @@ Computer Science student passionate about problem solving, machine learning and 
 - 🚀 **Building projects and learning every day**
 
 </td>
-
 <td width="40%" align="center">
 
-<!-- Programming Sketch -->
+<svg width="280" height="220" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="140" cy="205" rx="110" ry="8" fill="#1a1f2e"/>
 
-<svg width="280" height="240" viewBox="0 0 280 240"
-     xmlns="http://www.w3.org/2000/svg">
+  <rect x="30" y="30" width="90" height="60" rx="4" fill="#0d1117" stroke="#36BCF7" stroke-width="2"/>
+  <rect x="38" y="38" width="74" height="44" fill="#161b22"/>
+  <line x1="42" y1="46" x2="80" y2="46" stroke="#36BCF7" stroke-width="2">
+    <animate attributeName="x2" values="42;80;42" dur="2.4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="42" y1="54" x2="70" y2="54" stroke="#61dafb" stroke-width="2">
+    <animate attributeName="x2" values="42;70;42" dur="2.8s" repeatCount="indefinite"/>
+  </line>
+  <line x1="42" y1="62" x2="90" y2="62" stroke="#e5c07b" stroke-width="2">
+    <animate attributeName="x2" values="42;90;42" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="42" y1="70" x2="60" y2="70" stroke="#c586c0" stroke-width="2">
+    <animate attributeName="x2" values="42;60;42" dur="2.6s" repeatCount="indefinite"/>
+  </line>
+  <rect x="70" y="90" width="10" height="10" fill="#0d1117"/>
+  <rect x="55" y="100" width="40" height="4" rx="2" fill="#30363d"/>
 
-  <!-- Background -->
-  <rect x="5" y="5" width="270" height="230"
-        rx="18" fill="#0d1117"
-        stroke="#30363d" stroke-width="2"/>
+  <rect x="130" y="20" width="110" height="72" rx="4" fill="#0d1117" stroke="#36BCF7" stroke-width="2"/>
+  <rect x="138" y="28" width="94" height="56" fill="#161b22"/>
+  <line x1="144" y1="38" x2="200" y2="38" stroke="#27c93f" stroke-width="2">
+    <animate attributeName="x2" values="144;200;144" dur="2.2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="47" x2="220" y2="47" stroke="#36BCF7" stroke-width="2">
+    <animate attributeName="x2" values="144;220;144" dur="2.5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="56" x2="180" y2="56" stroke="#e5c07b" stroke-width="2">
+    <animate attributeName="x2" values="144;180;144" dur="1.9s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="65" x2="210" y2="65" stroke="#c586c0" stroke-width="2">
+    <animate attributeName="x2" values="144;210;144" dur="2.3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="74" x2="170" y2="74" stroke="#61dafb" stroke-width="2">
+    <animate attributeName="x2" values="144;170;144" dur="2.7s" repeatCount="indefinite"/>
+  </line>
+  <rect x="180" y="92" width="10" height="10" fill="#0d1117"/>
+  <rect x="160" y="102" width="50" height="4" rx="2" fill="#30363d"/>
 
-  <!-- Glow -->
-  <circle cx="210" cy="60" r="55" fill="#36BCF7" opacity="0.04"/>
+  <rect x="20" y="130" width="230" height="8" rx="2" fill="#30363d"/>
+  <rect x="150" y="106" width="14" height="26" rx="2" fill="#21262d"/>
 
-  <!-- Monitor -->
-  <rect x="55" y="25" width="170" height="105"
-        rx="8" fill="#161b22"
-        stroke="#36BCF7" stroke-width="3"/>
-
-  <!-- Screen -->
-  <rect x="65" y="35" width="150" height="85"
-        rx="4" fill="#010409"/>
-
-  <!-- Code -->
-  <text x="75" y="52"
-        font-family="monospace"
-        font-size="9"
-        fill="#36BCF7">
-    #include &lt;bits/stdc++.h&gt;
-  </text>
-
-  <text x="75" y="65"
-        font-family="monospace"
-        font-size="9"
-        fill="#c586c0">
-    using namespace std;
-  </text>
-
-  <text x="75" y="78"
-        font-family="monospace"
-        font-size="9"
-        fill="#61dafb">
-    int main() {
-  </text>
-
-  <text x="84" y="91"
-        font-family="monospace"
-        font-size="9"
-        fill="#e5c07b">
-    int n; cin &gt;&gt; n;
-  </text>
-
-  <text x="84" y="104"
-        font-family="monospace"
-        font-size="9"
-        fill="#98c379">
-    cout &lt;&lt; n;
-  </text>
-
-  <text x="75" y="117"
-        font-family="monospace"
-        font-size="9"
-        fill="#c586c0">
-    }
-  </text>
-
-  <!-- Cursor -->
-  <rect x="150" y="108"
-        width="5" height="11"
-        fill="#36BCF7">
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="0.9s"
-      repeatCount="indefinite"/>
+  <circle cx="185" cy="160" r="16" fill="#e5a88c"/>
+  <path d="M170 152 Q185 140 200 152 L198 158 Q185 148 172 158 Z" fill="#2b2b2b"/>
+  <path d="M160 200 Q160 168 185 168 Q210 168 210 200 Z" fill="#36BCF7"/>
+  <rect x="165" y="140" width="14" height="6" fill="#0d1117">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 3,0; 0,0" dur="1.4s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Monitor Stand -->
-  <rect x="128" y="130"
-        width="24" height="32"
-        fill="#21262d"/>
-
-  <rect x="105" y="160"
-        width="70" height="7"
-        rx="3"
-        fill="#30363d"/>
-
-  <!-- Desk -->
-  <rect x="25" y="196"
-        width="230" height="6"
-        rx="3"
-        fill="#30363d"/>
-
-  <!-- Laptop -->
-  <rect x="20" y="145"
-        width="70" height="42"
-        rx="5"
-        fill="#161b22"
-        stroke="#36BCF7"
-        stroke-width="2"/>
-
-  <rect x="27" y="152"
-        width="56" height="28"
-        fill="#010409"/>
-
-  <text x="32" y="164"
-        font-family="monospace"
-        font-size="6"
-        fill="#36BCF7">
-    &gt; solve()
-  </text>
-
-  <text x="32" y="174"
-        font-family="monospace"
-        font-size="6"
-        fill="#98c379">
-    Accepted ✓
-  </text>
-
-  <!-- Keyboard -->
-  <rect x="145" y="180"
-        width="75" height="13"
-        rx="3"
-        fill="#21262d"/>
-
-  <line x1="151" y1="184"
-        x2="214" y2="184"
-        stroke="#30363d"
-        stroke-width="2"/>
-
-  <line x1="151" y1="189"
-        x2="214" y2="189"
-        stroke="#30363d"
-        stroke-width="2"/>
-
-  <!-- Programmer Head -->
-  <circle cx="205" cy="151"
-          r="14"
-          fill="#e5a88c"/>
-
-  <!-- Hair -->
-  <path d="M191 149
-           Q194 134 207 135
-           Q219 137 220 151
-           Q214 143 205 145
-           Q198 142 191 149Z"
-        fill="#2b2b2b"/>
-
-  <!-- Body -->
-  <path d="M183 193
-           Q184 168 205 168
-           Q226 168 228 193Z"
-        fill="#36BCF7"/>
-
-  <!-- Arm -->
-  <path d="M188 174
-           Q174 184 160 187"
-        stroke="#e5a88c"
-        stroke-width="7"
-        stroke-linecap="round"/>
-
-  <!-- Other Arm -->
-  <path d="M220 174
-           Q225 183 216 187"
-        stroke="#e5a88c"
-        stroke-width="7"
-        stroke-linecap="round"/>
-
-  <!-- Coffee Cup -->
-  <rect x="230" y="166"
-        width="18" height="24"
-        rx="3"
-        fill="#e5a88c"/>
-
-  <path d="M248 171
-           Q260 171 260 180
-           Q260 188 248 188"
-        fill="none"
-        stroke="#e5a88c"
-        stroke-width="3"/>
-
-  <!-- Coffee Steam -->
-  <path d="M235 162
-           Q229 154 235 148
-           Q241 142 235 135"
-        fill="none"
-        stroke="#61dafb"
-        stroke-width="2">
-
-    <animate
-      attributeName="opacity"
-      values="0;1;0"
-      dur="2s"
-      repeatCount="indefinite"/>
-
-  </path>
-
-  <path d="M242 162
-           Q236 154 242 148
-           Q248 142 242 135"
-        fill="none"
-        stroke="#36BCF7"
-        stroke-width="2">
-
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="2.5s"
-      repeatCount="indefinite"/>
-
-  </path>
-
-  <!-- Small Floating Code Symbols -->
-
-  <text x="20" y="55"
-        font-family="monospace"
-        font-size="18"
-        fill="#36BCF7"
-        opacity="0.7">
-    &lt;/&gt;
-  </text>
-
-  <text x="225" y="35"
-        font-family="monospace"
-        font-size="14"
-        fill="#c586c0"
-        opacity="0.7">
-    { }
-  </text>
-
-  <text x="25" y="120"
-        font-family="monospace"
-        font-size="13"
-        fill="#98c379"
-        opacity="0.7">
-    C++
-  </text>
-
+  <rect x="140" y="205" width="90" height="10" rx="2" fill="#21262d"/>
 </svg>
 
 </td>
-
 </tr>
 </table>
 
@@ -271,21 +82,16 @@ Computer Science student passionate about problem solving, machine learning and 
 
 <table width="100%">
 <tr>
-
 <td align="center" width="33%">
 
 **💻 Competitive Programming**
 
 <img src="https://skillicons.dev/icons?i=c,cpp" height="40" />
-
-<a href="https://codeforces.com/profile/Pappu034">
-<img src="https://skillicons.dev/icons?i=codeforces" height="40" />
-</a>
+<a href="https://codeforces.com/profile/Pappu034"><img src="https://skillicons.dev/icons?i=codeforces" height="40" /></a>
 
 `DSA` • `Algorithms` • `Problem Solving`
 
 </td>
-
 <td align="center" width="33%">
 
 **🤖 Machine Learning & AI**
@@ -295,7 +101,6 @@ Computer Science student passionate about problem solving, machine learning and 
 `ML` • `DL` • `CV` • `NLP` • `Data Science`
 
 </td>
-
 <td align="center" width="33%">
 
 **🌐 Web Development**
@@ -305,7 +110,6 @@ Computer Science student passionate about problem solving, machine learning and 
 `Frontend` • `Backend` • `REST API`
 
 </td>
-
 </tr>
 </table>
 
@@ -314,17 +118,12 @@ Computer Science student passionate about problem solving, machine learning and 
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=shakhaoathpappu-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=shakhaoathpappu-jpg&theme=tokyonight&hide_border=true" height="165"/>
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhaoathpappu-jpg&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 </div>
 
 ---
@@ -336,11 +135,9 @@ Computer Science student passionate about problem solving, machine learning and 
 <a href="https://www.linkedin.com/in/shakhaoath-pappu-7a0494281/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://codeforces.com/profile/Pappu034">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
-
 <a href="mailto:shakhaoathpappu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
