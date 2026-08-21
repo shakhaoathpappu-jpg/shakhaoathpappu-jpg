@@ -16,46 +16,62 @@ Computer Science student passionate about problem solving, machine learning and 
 - 🤖 **Exploring ML, Deep Learning & AI**
 - 🚀 **Building projects and learning every day**
 
-</td>
 <td width="40%" align="center">
 
-<svg width="260" height="200" viewBox="0 0 260 200" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="20" width="240" height="140" rx="10" fill="#0d1117" stroke="#36BCF7" stroke-width="2"/>
-  <circle cx="30" cy="35" r="4" fill="#ff5f56"/>
-  <circle cx="45" cy="35" r="4" fill="#ffbd2e"/>
-  <circle cx="60" cy="35" r="4" fill="#27c93f"/>
+<svg width="280" height="220" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="140" cy="205" rx="110" ry="8" fill="#1a1f2e"/>
 
-  <text x="25" y="65" font-family="monospace" font-size="12" fill="#36BCF7">
-    <tspan x="25" dy="0">function code() {</tspan>
-    <tspan x="35" dy="18">console.log(</tspan>
-    <tspan fill="#e5c07b">"Hello World"</tspan>
-    <tspan>);</tspan>
-    <tspan x="25" dy="18">}</tspan>
-  </text>
+  <rect x="30" y="30" width="90" height="60" rx="4" fill="#0d1117" stroke="#36BCF7" stroke-width="2"/>
+  <rect x="38" y="38" width="74" height="44" fill="#161b22"/>
+  <line x1="42" y1="46" x2="80" y2="46" stroke="#36BCF7" stroke-width="2">
+    <animate attributeName="x2" values="42;80;42" dur="2.4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="42" y1="54" x2="70" y2="54" stroke="#61dafb" stroke-width="2">
+    <animate attributeName="x2" values="42;70;42" dur="2.8s" repeatCount="indefinite"/>
+  </line>
+  <line x1="42" y1="62" x2="90" y2="62" stroke="#e5c07b" stroke-width="2">
+    <animate attributeName="x2" values="42;90;42" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="42" y1="70" x2="60" y2="70" stroke="#c586c0" stroke-width="2">
+    <animate attributeName="x2" values="42;60;42" dur="2.6s" repeatCount="indefinite"/>
+  </line>
+  <rect x="70" y="90" width="10" height="10" fill="#0d1117"/>
+  <rect x="55" y="100" width="40" height="4" rx="2" fill="#30363d"/>
 
-  <rect x="25" y="120" width="8" height="14" fill="#36BCF7">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  <rect x="130" y="20" width="110" height="72" rx="4" fill="#0d1117" stroke="#36BCF7" stroke-width="2"/>
+  <rect x="138" y="28" width="94" height="56" fill="#161b22"/>
+  <line x1="144" y1="38" x2="200" y2="38" stroke="#27c93f" stroke-width="2">
+    <animate attributeName="x2" values="144;200;144" dur="2.2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="47" x2="220" y2="47" stroke="#36BCF7" stroke-width="2">
+    <animate attributeName="x2" values="144;220;144" dur="2.5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="56" x2="180" y2="56" stroke="#e5c07b" stroke-width="2">
+    <animate attributeName="x2" values="144;180;144" dur="1.9s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="65" x2="210" y2="65" stroke="#c586c0" stroke-width="2">
+    <animate attributeName="x2" values="144;210;144" dur="2.3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="144" y1="74" x2="170" y2="74" stroke="#61dafb" stroke-width="2">
+    <animate attributeName="x2" values="144;170;144" dur="2.7s" repeatCount="indefinite"/>
+  </line>
+  <rect x="180" y="92" width="10" height="10" fill="#0d1117"/>
+  <rect x="160" y="102" width="50" height="4" rx="2" fill="#30363d"/>
+
+  <rect x="20" y="130" width="230" height="8" rx="2" fill="#30363d"/>
+  <rect x="150" y="106" width="14" height="26" rx="2" fill="#21262d"/>
+
+  <circle cx="185" cy="160" r="16" fill="#e5a88c"/>
+  <path d="M170 152 Q185 140 200 152 L198 158 Q185 148 172 158 Z" fill="#2b2b2b"/>
+  <path d="M160 200 Q160 168 185 168 Q210 168 210 200 Z" fill="#36BCF7"/>
+  <rect x="165" y="140" width="14" height="6" fill="#0d1117">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 3,0; 0,0" dur="1.4s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="200" y="45" font-family="monospace" font-size="20" fill="#61dafb">
-    &lt;/&gt;
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="2s" repeatCount="indefinite"/>
-  </text>
-
-  <text x="15" y="180" font-family="monospace" font-size="18" fill="#f7df1e">
-    { }
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="1.6s" repeatCount="indefinite"/>
-  </text>
-
-  <text x="215" y="180" font-family="monospace" font-size="18" fill="#c586c0">
-    ( )
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="1.8s" repeatCount="indefinite"/>
-  </text>
+  <rect x="140" y="205" width="90" height="10" rx="2" fill="#21262d"/>
 </svg>
 
 </td>
-</tr>
-</table>
 
 ---
 
