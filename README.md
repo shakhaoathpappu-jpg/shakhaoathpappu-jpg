@@ -1,10 +1,6 @@
-<div align="center">
+# <img src="https://raw.githubusercontent.com/Martin389/Martin389/main/waving-hand.gif" width="35px"/> Hi, I'm Shakhaoath Pappu
 
-# 👋 Hi, I'm Shakhaoath Pappu
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
 
 <br>
 
