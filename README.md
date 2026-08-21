@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Shakhaoath Pappu
 
-### 💻 Competitive Programmer | 🤖 AI/ML Explorer | 🌐 Web Developer
+### 💻 Competitive Programmer | 🤖 Machine Learning | 🌐 Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Competitive+Programming+Enthusiast;Problem+Solving+%26+DSA;Machine+Learning+Explorer;AI+%26+Deep+Learning+Learner;Building+Projects+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Competitive+Programming+%26+Problem+Solving;Machine+Learning+%26+AI+Explorer;Building+Projects+%26+Learning+Every+Day" />
 
 </div>
 
@@ -12,131 +12,68 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science student** and a passionate problem solver interested in **Competitive Programming, Machine Learning, and Web Development**.
-
-- 🧠 Currently practicing **Data Structures & Algorithms & Competitive Programming**
+- 🎓 Computer Science student
+- 🧠 Focused on **Competitive Programming & Problem Solving**
 - 🤖 Exploring **Machine Learning, Deep Learning & AI**
-- 🔬 Working on **ML Projects and Research**
-- 📊 Working with **Python, NumPy, Pandas, Scikit-learn & TensorFlow**
-- 💡 Interested in **Problem Solving, AI/ML & Software Development**
-- 🌐 Also exploring **Modern Web Development**
-- 🤝 Open to collaborating on **Competitive Programming, AI/ML, Research & Open Source Projects**
-- ⚡ Always learning, experimenting and building
+- 🔬 Working on **ML Projects & Research**
+- 🌐 Learning and building with **Modern Web Technologies**
+- 🚀 Always learning, solving and building
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Competitive Programming
 
-### 💻 Competitive Programming
+<p>
+<a href="https://codeforces.com/profile/Pappu034">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+**Focus:**  
+`Data Structures` • `Algorithms` • `Problem Solving` • `Dynamic Programming` • `Graph` • `Greedy` • `Binary Search` • `Number Theory`
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
-**Focus:**
-
-`Data Structures` • `Algorithms` • `Problem Solving` • `Dynamic Programming` • `Graph Algorithms` • `Greedy Algorithms`
-
 ---
 
-### 🤖 AI / Machine Learning
+## 🤖 Machine Learning & AI
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-**Libraries & Tools:**
+**Tools & Libraries**
 
 `NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `TensorFlow` • `OpenCV`
 
-**Exploring:**
-
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Feature Engineering` • `Model Evaluation`
-
----
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs" />
-</p>
-
-**Exploring:**
-
-`HTML` • `CSS` • `JavaScript` • `React` • `Vue` • `Node.js`
-
----
-
-### 🛠️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-## 🧩 Competitive Programming
-
-I enjoy solving algorithmic problems and continuously improving my **problem-solving and algorithmic thinking skills**. I try to stay consistent on Codeforces with regular practice.
-
-### Platforms
-
-<p>
-
-<a href="https://codeforces.com/profile/Pappu034">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
-### 🎯 My CP Focus
-
-- Data Structures
-- Algorithms
-- Problem Solving
-- Dynamic Programming
-- Graph Algorithms
-- Greedy Algorithms
-- Binary Search
-- Number Theory
-- Competitive Programming
-
----
-
-## 🤖 Machine Learning & AI
-
-I'm currently exploring **Machine Learning and Artificial Intelligence** through practical projects and experiments.
-
-### 🔬 Areas I'm Exploring
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Feature Engineering
-- Data Preprocessing
-- Model Training & Evaluation
-- Neural Networks
-- ML Research
+**Exploring:**  
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP` • `Feature Engineering` • `Model Evaluation` • `ML Research`
 
 ---
 
 ## 🌐 Web Development
 
-I'm also exploring modern web development, building projects while learning the fundamentals of frontend and backend technologies.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
 
-### 🔬 Areas I'm Exploring
+**Exploring:**  
+`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `REST API`
 
-- Frontend Development
-- React & Vue
-- Node.js
-- REST APIs
-- Responsive Design
-- Version Control (Git & GitHub)
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter" />
+</p>
 
 ---
 
@@ -144,9 +81,9 @@ I'm also exploring modern web development, building projects while learning the 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shakhaoathpappu-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shakhaoathpappu-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhaoathpappu-jpg&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhaoathpappu-jpg&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -182,45 +119,24 @@ I'm also exploring modern web development, building projects while learning the 
 
 ---
 
-## 📌 Featured Projects
+## 🤝 Connect With Me
 
-### 💻 DSA & Competitive Programming
+<div align="center">
 
-Data Structures & Algorithms practice and competitive programming solutions.
+<a href="https://codeforces.com/profile/Pappu034">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
-### 🤖 Machine Learning
+<a href="https://www.linkedin.com/in/shakhaoath-pappu-7a0494281/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Machine Learning and AI projects involving **data preprocessing, feature engineering, model training, evaluation and prediction**.
-
-### 🧠 Deep Learning
-
-Exploring neural networks, CNNs, computer vision and practical AI applications.
-
-### 🌐 Web Development
-
-Web development projects built while learning modern frontend and backend technologies.
-
-### 🐙 Learning Git
-
-My journey of learning Git and GitHub through practical projects and version control workflows.
+</div>
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
 
-```text
-Competitive Programming       ████████████████░░░  85%
-Machine Learning              ██████████████░░░░░  75%
-Deep Learning                 ████████████░░░░░░░  65%
-AI / Computer Vision          ███████████░░░░░░░░  60%
-Web Development               █████████░░░░░░░░░░  50%
-```
+### 🚀 Solve • Learn • Build • Repeat
 
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://codeforces.com/profile/Pappu034"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shakhaoath-pappu-7a0494281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</div>
