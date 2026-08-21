@@ -23,7 +23,7 @@ Computer Science student passionate about problem solving, machine learning and 
 
 </td>
 <td width="45%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 </td>
 </tr>
 </table>
@@ -37,7 +37,7 @@ Computer Science student passionate about problem solving, machine learning and 
 
 | 💻 Competitive Programming | 🤖 Machine Learning & AI | 🌐 Web Development |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=c,cpp" height="35" /> <a href="https://codeforces.com/profile/Pappu034"><img src="https://skillicons.dev/icons?i=codeforces" height="35" /></a> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,opencv" height="35" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="35" /> |
+| <img src="https://skillicons.dev/icons?i=c,cpp" height="35" /> &nbsp; <a href="https://codeforces.com/profile/Pappu034"><img src="https://skillicons.dev/icons?i=codeforces" height="35" /></a> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,opencv" height="35" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="35" /> |
 | `DSA` • `Algorithms` • `Problem Solving` | `ML` • `DL` • `CV` • `NLP` • `Data Science` | `Frontend` • `Backend` • `REST API` |
 
 </div>
@@ -47,11 +47,9 @@ Computer Science student passionate about problem solving, machine learning and 
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=shakhaoathpappu-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
 <img src="https://streak-stats.demolab.com?user=shakhaoathpappu-jpg&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhaoathpappu-jpg&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
 </div>
 
 ---
