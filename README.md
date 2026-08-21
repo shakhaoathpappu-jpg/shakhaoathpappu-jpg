@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shakhaoath+Pappu" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=800&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
 
 </div>
 
@@ -19,6 +19,12 @@ I'm a **Computer Science student** passionate about problem solving, Machine Lea
 - 🔬 Working on **ML Projects & Research**
 - 🌐 Exploring **Modern Web Development**
 - 🚀 Always learning, solving and building
+
+<div align="right">
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/drawings/coding.gif" width="280"/>
+
+</div>
 
 ---
 
@@ -61,7 +67,7 @@ I'm a **Computer Science student** passionate about problem solving, Machine Lea
 
 ## 🧰 Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
 </p>
 
@@ -99,7 +105,7 @@ I'm a **Computer Science student** passionate about problem solving, Machine Lea
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -109,7 +115,7 @@ I'm a **Computer Science student** passionate about problem solving, Machine Lea
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -130,4 +136,3 @@ I'm a **Computer Science student** passionate about problem solving, Machine Lea
 ### 🚀 Solve • Learn • Build • Repeat
 
 </div>
-```
