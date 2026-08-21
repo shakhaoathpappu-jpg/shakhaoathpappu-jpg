@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Shakhaoath Pappu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shakhaoath+Pappu" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=800&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
 
 </div>
 
@@ -12,68 +10,85 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science student** passionate about problem solving, Machine Learning and software development.
+Computer Science student passionate about **problem solving, Machine Learning, AI and software development**.
 
 - 💻 Focused on **Competitive Programming & DSA**
 - 🤖 Exploring **Machine Learning, Deep Learning & AI**
 - 🔬 Working on **ML Projects & Research**
 - 🌐 Exploring **Modern Web Development**
-- 🚀 Always learning, solving and building
-
-<div align="right">
-
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/drawings/coding.gif" width="280"/>
-
-</div>
+- 🚀 Learning, solving and building every day
 
 ---
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="33%" align="center">
+
 ### 💻 Competitive Programming
 
-<p>
 <img src="https://skillicons.dev/icons?i=c,cpp" />
-</p>
 
-`Data Structures` • `Algorithms` • `Problem Solving` • `Dynamic Programming`  
-`Graph` • `Greedy` • `Binary Search` • `Number Theory`
+<br><br>
 
----
+`DSA` • `Algorithms`  
+`Problem Solving`  
+`Dynamic Programming`  
+`Graph` • `Greedy`  
+`Binary Search` • `Number Theory`
+
+</td>
+
+<td width="33%" align="center">
 
 ### 🤖 Machine Learning & AI
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `TensorFlow` • `OpenCV`
+<br><br>
 
-**Exploring:**  
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP`  
-`Feature Engineering` • `Model Evaluation` • `ML Research`
+`NumPy` • `Pandas`  
+`Matplotlib` • `Scikit-learn`  
+`TensorFlow` • `OpenCV`
 
----
+<br>
+
+`ML` • `Deep Learning`  
+`Computer Vision` • `NLP`  
+`ML Research`
+
+</td>
+
+<td width="33%" align="center">
 
 ### 🌐 Web Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-</p>
 
-`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `REST API`
+<br><br>
+
+`HTML` • `CSS`  
+`JavaScript` • `React`  
+`Node.js` • `REST API`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tools
+## 🧰 Languages & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,tensorflow,git,github,vscode,jupyter,linux" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -136,3 +151,4 @@ I'm a **Computer Science student** passionate about problem solving, Machine Lea
 ### 🚀 Solve • Learn • Build • Repeat
 
 </div>
+```
