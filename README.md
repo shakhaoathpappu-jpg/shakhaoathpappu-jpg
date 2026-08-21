@@ -6,6 +6,7 @@
 
 <table width="100%">
 <tr>
+
 <td width="60%" valign="top">
 
 ### 👤 About Me
@@ -20,134 +21,247 @@ Computer Science student passionate about problem solving, machine learning and 
 
 <td width="40%" align="center">
 
-<svg width="280" height="220" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
+<!-- Programming Sketch -->
+
+<svg width="280" height="240" viewBox="0 0 280 240"
+     xmlns="http://www.w3.org/2000/svg">
 
   <!-- Background -->
-  <rect width="280" height="220" rx="12" fill="#0d1117"/>
+  <rect x="5" y="5" width="270" height="230"
+        rx="18" fill="#0d1117"
+        stroke="#30363d" stroke-width="2"/>
 
-  <!-- Desk -->
-  <rect x="20" y="185" width="240" height="6" rx="3" fill="#30363d"/>
+  <!-- Glow -->
+  <circle cx="210" cy="60" r="55" fill="#36BCF7" opacity="0.04"/>
 
   <!-- Monitor -->
-  <rect x="55" y="30" width="170" height="105" rx="8"
-        fill="#161b22" stroke="#36BCF7" stroke-width="3"/>
+  <rect x="55" y="25" width="170" height="105"
+        rx="8" fill="#161b22"
+        stroke="#36BCF7" stroke-width="3"/>
 
   <!-- Screen -->
-  <rect x="65" y="40" width="150" height="85" rx="4" fill="#010409"/>
+  <rect x="65" y="35" width="150" height="85"
+        rx="4" fill="#010409"/>
 
-  <!-- Code lines -->
-  <text x="75" y="57" fill="#36BCF7" font-size="9" font-family="monospace">
-    #include &lt;iostream&gt;
+  <!-- Code -->
+  <text x="75" y="52"
+        font-family="monospace"
+        font-size="9"
+        fill="#36BCF7">
+    #include &lt;bits/stdc++.h&gt;
   </text>
 
-  <text x="75" y="70" fill="#c586c0" font-size="9" font-family="monospace">
+  <text x="75" y="65"
+        font-family="monospace"
+        font-size="9"
+        fill="#c586c0">
+    using namespace std;
+  </text>
+
+  <text x="75" y="78"
+        font-family="monospace"
+        font-size="9"
+        fill="#61dafb">
     int main() {
   </text>
 
-  <text x="85" y="83" fill="#61dafb" font-size="9" font-family="monospace">
-    int n;
+  <text x="84" y="91"
+        font-family="monospace"
+        font-size="9"
+        fill="#e5c07b">
+    int n; cin &gt;&gt; n;
   </text>
 
-  <text x="85" y="96" fill="#e5c07b" font-size="9" font-family="monospace">
-    cin &gt;&gt; n;
-  </text>
-
-  <text x="85" y="109" fill="#98c379" font-size="9" font-family="monospace">
+  <text x="84" y="104"
+        font-family="monospace"
+        font-size="9"
+        fill="#98c379">
     cout &lt;&lt; n;
   </text>
 
-  <text x="75" y="122" fill="#c586c0" font-size="9" font-family="monospace">
+  <text x="75" y="117"
+        font-family="monospace"
+        font-size="9"
+        fill="#c586c0">
     }
   </text>
 
   <!-- Cursor -->
-  <rect x="155" y="113" width="5" height="10" fill="#36BCF7">
-    <animate attributeName="opacity"
-             values="1;0;1"
-             dur="1s"
-             repeatCount="indefinite"/>
+  <rect x="150" y="108"
+        width="5" height="11"
+        fill="#36BCF7">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.9s"
+      repeatCount="indefinite"/>
   </rect>
 
   <!-- Monitor Stand -->
-  <rect x="132" y="135" width="16" height="35" fill="#21262d"/>
-  <rect x="110" y="168" width="60" height="7" rx="3" fill="#30363d"/>
+  <rect x="128" y="130"
+        width="24" height="32"
+        fill="#21262d"/>
+
+  <rect x="105" y="160"
+        width="70" height="7"
+        rx="3"
+        fill="#30363d"/>
+
+  <!-- Desk -->
+  <rect x="25" y="196"
+        width="230" height="6"
+        rx="3"
+        fill="#30363d"/>
 
   <!-- Laptop -->
-  <rect x="15" y="145" width="70" height="40" rx="4"
-        fill="#161b22" stroke="#36BCF7" stroke-width="2"/>
+  <rect x="20" y="145"
+        width="70" height="42"
+        rx="5"
+        fill="#161b22"
+        stroke="#36BCF7"
+        stroke-width="2"/>
 
-  <rect x="21" y="151" width="58" height="28" fill="#010409"/>
+  <rect x="27" y="152"
+        width="56" height="28"
+        fill="#010409"/>
 
-  <text x="27" y="163" fill="#36BCF7" font-size="6" font-family="monospace">
+  <text x="32" y="164"
+        font-family="monospace"
+        font-size="6"
+        fill="#36BCF7">
     &gt; solve()
   </text>
 
-  <text x="27" y="172" fill="#98c379" font-size="6" font-family="monospace">
-    accepted
+  <text x="32" y="174"
+        font-family="monospace"
+        font-size="6"
+        fill="#98c379">
+    Accepted ✓
   </text>
 
-  <rect x="30" y="185" width="40" height="3" rx="2" fill="#30363d"/>
+  <!-- Keyboard -->
+  <rect x="145" y="180"
+        width="75" height="13"
+        rx="3"
+        fill="#21262d"/>
 
-  <!-- Coffee Cup -->
-  <rect x="220" y="150" width="25" height="27" rx="4" fill="#e5a88c"/>
-  <path d="M245 156 Q258 156 258 165 Q258 174 245 174"
-        fill="none" stroke="#e5a88c" stroke-width="4"/>
+  <line x1="151" y1="184"
+        x2="214" y2="184"
+        stroke="#30363d"
+        stroke-width="2"/>
 
-  <!-- Steam -->
-  <path d="M228 146 Q222 139 228 132 Q234 125 228 118"
-        fill="none" stroke="#61dafb" stroke-width="2">
-    <animate attributeName="opacity"
-             values="0;1;0"
-             dur="2s"
-             repeatCount="indefinite"/>
-  </path>
+  <line x1="151" y1="189"
+        x2="214" y2="189"
+        stroke="#30363d"
+        stroke-width="2"/>
 
-  <path d="M238 146 Q232 139 238 132 Q244 125 238 118"
-        fill="none" stroke="#36BCF7" stroke-width="2">
-    <animate attributeName="opacity"
-             values="1;0;1"
-             dur="2.5s"
-             repeatCount="indefinite"/>
-  </path>
-
-  <!-- Programmer -->
-  <circle cx="195" cy="155" r="13" fill="#e5a88c"/>
+  <!-- Programmer Head -->
+  <circle cx="205" cy="151"
+          r="14"
+          fill="#e5a88c"/>
 
   <!-- Hair -->
-  <path d="M182 153 Q195 135 208 153 Q203 145 195 147 Q187 145 182 153"
+  <path d="M191 149
+           Q194 134 207 135
+           Q219 137 220 151
+           Q214 143 205 145
+           Q198 142 191 149Z"
         fill="#2b2b2b"/>
 
   <!-- Body -->
-  <path d="M175 185 Q175 165 195 165 Q215 165 215 185"
+  <path d="M183 193
+           Q184 168 205 168
+           Q226 168 228 193Z"
         fill="#36BCF7"/>
 
-  <!-- Arms -->
-  <path d="M178 170 Q165 177 155 180"
-        stroke="#e5a88c" stroke-width="7"
+  <!-- Arm -->
+  <path d="M188 174
+           Q174 184 160 187"
+        stroke="#e5a88c"
+        stroke-width="7"
         stroke-linecap="round"/>
 
-  <path d="M210 170 Q220 177 228 180"
-        stroke="#e5a88c" stroke-width="7"
+  <!-- Other Arm -->
+  <path d="M220 174
+           Q225 183 216 187"
+        stroke="#e5a88c"
+        stroke-width="7"
         stroke-linecap="round"/>
 
-  <!-- Keyboard -->
-  <rect x="145" y="180" width="70" height="10" rx="3" fill="#21262d"/>
+  <!-- Coffee Cup -->
+  <rect x="230" y="166"
+        width="18" height="24"
+        rx="3"
+        fill="#e5a88c"/>
 
-  <!-- Keyboard Lights -->
-  <circle cx="153" cy="185" r="1.5" fill="#36BCF7">
-    <animate attributeName="opacity"
-             values="1;0.2;1"
-             dur="1s"
-             repeatCount="indefinite"/>
-  </circle>
+  <path d="M248 171
+           Q260 171 260 180
+           Q260 188 248 188"
+        fill="none"
+        stroke="#e5a88c"
+        stroke-width="3"/>
 
-  <circle cx="163" cy="185" r="1.5" fill="#61dafb"/>
-  <circle cx="173" cy="185" r="1.5" fill="#e5c07b"/>
-  <circle cx="183" cy="185" r="1.5" fill="#c586c0"/>
+  <!-- Coffee Steam -->
+  <path d="M235 162
+           Q229 154 235 148
+           Q241 142 235 135"
+        fill="none"
+        stroke="#61dafb"
+        stroke-width="2">
+
+    <animate
+      attributeName="opacity"
+      values="0;1;0"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+  <path d="M242 162
+           Q236 154 242 148
+           Q248 142 242 135"
+        fill="none"
+        stroke="#36BCF7"
+        stroke-width="2">
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+  <!-- Small Floating Code Symbols -->
+
+  <text x="20" y="55"
+        font-family="monospace"
+        font-size="18"
+        fill="#36BCF7"
+        opacity="0.7">
+    &lt;/&gt;
+  </text>
+
+  <text x="225" y="35"
+        font-family="monospace"
+        font-size="14"
+        fill="#c586c0"
+        opacity="0.7">
+    { }
+  </text>
+
+  <text x="25" y="120"
+        font-family="monospace"
+        font-size="13"
+        fill="#98c379"
+        opacity="0.7">
+    C++
+  </text>
 
 </svg>
 
 </td>
+
 </tr>
 </table>
 
