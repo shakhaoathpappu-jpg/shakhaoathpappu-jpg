@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Shakhaoath Pappu
+# <img src="https://raw.githubusercontent.com/Martin389/Martin389/main/waving-hand.gif" width="38px"> Hi, I'm Shakhaoath Pappu
 
-💻 **Competitive Programmer** &nbsp;|&nbsp; 🤖 **Machine Learning & AI Explorer** &nbsp;|&nbsp; 🌐 **Web Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=💻+Competitive+Programmer;🤖+Machine+Learning+%26+AI+Explorer;🌐+Web+Developer" />
 
 </div>
 
@@ -11,7 +11,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### 👤 About Me
 
@@ -22,8 +22,8 @@ Computer Science student passionate about problem solving, machine learning and 
 - 🚀 **Building projects and learning every day**
 
 </td>
-<td width="40%" align="center" valign="middle">
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-4870020-4061806.png" width="220px"/>
+<td width="45%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </td>
 </tr>
 </table>
@@ -37,8 +37,8 @@ Computer Science student passionate about problem solving, machine learning and 
 
 | 💻 Competitive Programming | 🤖 Machine Learning & AI | 🌐 Web Development |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=c,cpp" height="35" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow" height="35" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="35" /> |
-| `DSA` • `Algorithms` • `Problem Solving` | `ML` • `DL` • `CV` • `NLP` | `Frontend` • `Backend` • `REST API` |
+| <img src="https://skillicons.dev/icons?i=c,cpp" height="35" /> <a href="https://codeforces.com/profile/Pappu034"><img src="https://skillicons.dev/icons?i=codeforces" height="35" /></a> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,opencv" height="35" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="35" /> |
+| `DSA` • `Algorithms` • `Problem Solving` | `ML` • `DL` • `CV` • `NLP` • `Data Science` | `Frontend` • `Backend` • `REST API` |
 
 </div>
 
