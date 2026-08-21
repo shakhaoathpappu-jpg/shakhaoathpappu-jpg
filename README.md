@@ -16,6 +16,7 @@ Computer Science student passionate about problem solving, machine learning and 
 - 🤖 **Exploring ML, Deep Learning & AI**
 - 🚀 **Building projects and learning every day**
 
+</td>
 <td width="40%" align="center">
 
 <svg width="280" height="220" viewBox="0 0 280 220" xmlns="http://www.w3.org/2000/svg">
@@ -72,6 +73,8 @@ Computer Science student passionate about problem solving, machine learning and 
 </svg>
 
 </td>
+</tr>
+</table>
 
 ---
 
