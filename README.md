@@ -12,7 +12,7 @@
 
 Computer Science student passionate about problem solving, machine learning and building modern web applications.
 
-- 💻 **Expert on Codeforces**
+- 🏆 **Competitive Programming Enthusiast**
 - 🤖 **Exploring ML, Deep Learning & AI**
 - 🚀 **Building projects and learning every day**
 
